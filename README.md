@@ -2,6 +2,7 @@
 Using Prolog to solve a 4x4 Sudoku game
 
 Called via the following commands:
+
 Rows = [[_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_],
         [_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_],
         [_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_],
